@@ -1,0 +1,3 @@
+/home/tingyi/Research_Frame_work/build/CMakeFiles/edit_cache.dir
+/home/tingyi/Research_Frame_work/build/CMakeFiles/rebuild_cache.dir
+/home/tingyi/Research_Frame_work/build/CMakeFiles/hello_headers.dir
