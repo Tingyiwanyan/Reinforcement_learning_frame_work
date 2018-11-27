@@ -190,6 +190,10 @@ iostream
 fstream
 -
 
+/home/tingyi/Research_Frame_work/src/ssp.cpp
+ssp.h
+/home/tingyi/Research_Frame_work/src/ssp.h
+
 /usr/include/eigen3/Eigen/Cholesky
 Core
 /usr/include/eigen3/Eigen/Core

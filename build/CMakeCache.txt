@@ -114,7 +114,7 @@ CMAKE_OBJCOPY:FILEPATH=/usr/bin/objcopy
 CMAKE_OBJDUMP:FILEPATH=/usr/bin/objdump
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=hello_headers
+CMAKE_PROJECT_NAME:STATIC=rtdp
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -170,6 +170,12 @@ hello_headers_BINARY_DIR:STATIC=/home/tingyi/Research_Frame_work/build
 
 //Value Computed by CMake
 hello_headers_SOURCE_DIR:STATIC=/home/tingyi/Research_Frame_work
+
+//Value Computed by CMake
+rtdp_BINARY_DIR:STATIC=/home/tingyi/Research_Frame_work/build
+
+//Value Computed by CMake
+rtdp_SOURCE_DIR:STATIC=/home/tingyi/Research_Frame_work
 
 
 ########################
